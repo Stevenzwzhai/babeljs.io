@@ -57,7 +57,7 @@ t.arrayPattern(elements, typeAnnotation)
 t.arrayTypeAnnotation(elementType)
 ```
 
-参加 `t.isArrayTypeAnnotation(node, opts)` 和 `t.assertArrayTypeAnnotation(node, opts)` 。
+参见 `t.isArrayTypeAnnotation(node, opts)` 和 `t.assertArrayTypeAnnotation(node, opts)` 。
 
 别名: `Flow`
 
